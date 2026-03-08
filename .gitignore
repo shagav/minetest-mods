@@ -1,0 +1,7 @@
+*.luac
+debug.txt
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
